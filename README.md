@@ -1,4 +1,12 @@
-### Hi there 👋
+#### 안녕하세요👋
+
+- 🌱 갓 걸음을 뗀 프론트엔드 개발자입니다
+- ✨ 사용자 경험에 관심이 많습니다
+
+
+#### 배우는 중
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
 
 <!--
 **joanShim/joanShim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
